@@ -19,6 +19,7 @@ _Program manager and marketer based in San Francisco, California_ <br>
 
 
 **Co-Founder, Operations** @ Fox and Bear LLC _(Mar 2019 - Present)_ <br>
+A small business founded to help me bring business projects to market
 - Setup sourcing and drop-shipping operations for products from Korea
 - Self funded business that makes small capital sized investments 
 <br><br>
@@ -31,7 +32,7 @@ Impressivo is a startup that develops 3D multi-touch interface solution in digit
 <br><br>
 
 **Program manager** @ [Cisco Innovation Center Songdo](https://www.cisco.com/c/m/ko_kr/innovation-center/songdo/en.html) _(Mar 2015 - Mar 2017)_ <br>
-GCooE is an innovation center for research and development that provides a solution incubation program for IoT-based products <br> 
+Cisco IC Songdo is an innovation center for research and development that provides a solution incubation program for IoT-based products <br> 
 - Managed the solution incubation program including initiating, recruiting and day-to-day project management 
 - Led scheduling, coordinating, and hosting customer briefings to accelerate enterprise sales in Asia-Pacific zone 
 - Facilitated pre-sales services with internal sales team to deliver a highly customized customer experience
