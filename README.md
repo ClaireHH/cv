@@ -54,7 +54,7 @@ Cowell Optic Electronics Co. Ltd. manufactures and distributes electronic compon
 - Learned to communicate technical requirements and expectations across key stakeholders in three languages 
 <br><br>
 
-**Intern, Digital Marketing Division** @ [Samsung OpenTide Greater China](http://www.opentide.com) _(May 2011 - July 2011)_ <br>
+**Intern, Digital Marketing Division** @ [Samsung OpenTide Greater China](http://www.ipengtai.com/main) _(May 2011 - July 2011)_ <br>
 Online marketing consulting and research in China, Taiwan, Korea, and Hong Kong.<br> 
 - Researched digital marketing strategy and online marketing use cases on consumer market in China 
 - Assisted in marketing proposal focused on AD, campaign and online marketing activities
